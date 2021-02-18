@@ -1,0 +1,15 @@
+* { 
+    margin: 0;
+    padding: 0;
+    background-color:black;
+  }
+
+.quarter{
+    width:25%;
+    background-color:blue;
+    height:100px;
+    display:inline-block;
+    box-sizing: border-box;
+}
+
+.reel{font-size:3em;width:1.5em;display:inline-block;height:6em;overflow-y: scroll;}
